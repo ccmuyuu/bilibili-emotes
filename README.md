@@ -7,4 +7,4 @@
 ```
 现已将所有表情包上传至tg贴纸包，请进入<a href=https://t.me/bilibili_emotes>频道</a>获得更多消息
 <br><br>
-截至目前 最新的表情为:**`major赛事Team spirit`** ID:**`7159`**
+截至目前 最新的表情为:**`小熊面包`** ID:**`7162`**
