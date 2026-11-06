@@ -7,4 +7,5 @@
 ```
 现已将所有表情包上传至tg贴纸包，请进入<a href=https://t.me/bilibili_emotes>频道</a>获得更多消息
 <br><br>
-截至目前 最新的表情为:**`TylooIEM表情包`** ID:**`10523`**
+LFS额度用完了，请通过<a href=https://emotes.ick39.dev>频道</a>直接看表情包<br>
+截至目前 最新的表情为:**`恶德挽歌静态表情包`** ID:**`10533`**
